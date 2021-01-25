@@ -1,7 +1,7 @@
 #include "ZPortScan.h"
 /*
 
-https://www.github.com/SarinosPrime/zportscanner
+https://www.github.com/SarinosPrime/z-portscanner
 
 */
 
