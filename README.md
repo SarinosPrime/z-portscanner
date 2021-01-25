@@ -8,7 +8,7 @@ Codes are easy to be understand by C/C++ beginners.
 
 ZPortScan.exe "number of threads" "timeout in seconds" "port to scan for" "ip list"
 
-example: ZPortScan.exe "10" "2" "3398" "ips.txt"
+example: ZPortScan.exe "10" "2" "3389" "ips.txt"
 
 Final results output will be valid_targets.txt in the same directory 
 
