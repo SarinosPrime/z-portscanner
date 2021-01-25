@@ -1,11 +1,3 @@
-# Z-Port Scanner
-
-A simple and useful port scanner tool.
-
-Codes are easy to be understand by C/C++ beginners.
-
-# How To Use Compiled Binary
-
 ZPortScan.exe "number of threads" "timeout in seconds" "port to scan for" "ip list"
 
 example: ZPortScan.exe "10" "2" "3398" "ips.txt"
