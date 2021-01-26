@@ -219,7 +219,7 @@ int main(int argc, char *argv[])
 
 	while (cont) // This loop will hold the window until all threads exit
 	{
-		Sleep(90); // Increase this value if you fill there is more CPU Usage than it's should be
+		Sleep(90); // Increase this value if you feel there is more CPU Usage than it's should be
 	}
 
 	listsFileR.close();
